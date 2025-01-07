@@ -94,11 +94,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 *Skyscrapers puzzle game - A Python implementation using Pygame*
 ```
-
-I've updated the README to:
-1. Include your specific image paths
-2. Add your YouTube video link
-3. Provide descriptions for each image
-4. Keep the installation and gameplay instructions clear and concise
-
-Would you like me to make any adjustments to the format or content?
