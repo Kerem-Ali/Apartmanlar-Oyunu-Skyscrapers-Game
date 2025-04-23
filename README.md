@@ -41,14 +41,6 @@ For example, if you have skyscrapers arranged [2, 4, 1, 3] from left to right:
 <img src="images/starter.png" width="250" alt="Starter Screen">
 </details>
 
-## 🎬 Video Tutorial
-
-<div align="center">
-  
-  [![Video Tutorial](https://img.shields.io/badge/YouTube-Watch-red?style=for-the-badge&logo=youtube)](https://youtube.com/shorts/YoA0qptHH34)
-  
-  _Check out our quick video tutorial to get started_
-</div>
 
 ## ⚙️ Installation
 
